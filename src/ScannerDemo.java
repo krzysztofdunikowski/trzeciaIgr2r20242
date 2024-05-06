@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ScannerDemo {
     public static void main(String[] args) {
 
+
         Scanner klawisz = new Scanner(System.in);
 
         int numerButa;
